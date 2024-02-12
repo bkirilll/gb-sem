@@ -1,0 +1,13 @@
+package ru.ywojctb.seminarcrud;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SeminarCrudApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SeminarCrudApplication.class, args);
+	}
+
+}
